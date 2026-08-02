@@ -1,5 +1,5 @@
 ### Hey, I'm Antoine
-I'm a 35-year-old statistical machine learning engineer interested in bioinformatics.
+I'm a statistical machine learning engineer interested in bioinformatics.
 
 Feel free to reach out via [email](mailto:gouralgo@protonmail.com).
 
